@@ -1,0 +1,16 @@
+.cursor {
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	border-radius: 100%;
+	opacity: 0.8;
+	transform: translate(-50%, -50%);
+	transition: 1s;
+}
+
+.cursor:hover::before {
+	content: attr(data-name);
+	display: flex;
+	margin: -20px;
+}

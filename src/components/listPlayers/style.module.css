@@ -1,0 +1,5 @@
+.players > * {
+	border-bottom: 1px dashed rgba(128, 128, 128, 0.5);
+	padding-bottom: 5px;
+	margin: 5px 0;
+}

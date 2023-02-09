@@ -1,0 +1,12 @@
+.player {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.circle {
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	/* border: 2px solid; */
+	border-radius: 100%;
+}
