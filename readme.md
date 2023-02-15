@@ -1,5 +1,8 @@
 Moved frontend from repository [ktor-minesweeper](https://github.com/EvgeniyKu/ktor-minesweeper)
 
+## Demo
+[Link](http://5.187.4.192:12003/)
+
 ## Source server
 [ktor-minesweeper](https://github.com/EvgeniyKu/ktor-minesweeper)
 
